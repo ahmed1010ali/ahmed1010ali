@@ -34,8 +34,6 @@ Skills:
 * Flask
 * Scikit-learn
 
-- 🔭 I’m currently working on this page. 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ahmed1010ali)  
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]([https://www.linkedin.com/in/li/](https://www.linkedin.com/in/ahmed-ali-5495aa249/))  
